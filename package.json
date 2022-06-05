@@ -1,0 +1,23 @@
+{
+  "name": "test_maplibre",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "engines": {
+    "node": ">=10 <11"
+  },
+  "dependencies": {
+    "@acalcutt/maplibre-gl-native": "^5.0.20",
+    "@mapbox/mapbox-gl-native": "^5.0.2",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "sharp": "^0.26.2",
+    "url": "^0.11.0"
+  }
+}
