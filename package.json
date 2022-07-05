@@ -12,7 +12,7 @@
     "node": ">=10 <11"
   },
   "dependencies": {
-    "@acalcutt/maplibre-gl-native": "^5.0.20",
+    "@acalcutt/maplibre-gl-native": "^5.0.21",
     "@mapbox/mapbox-gl-native": "^5.0.2",
     "fs": "0.0.1-security",
     "path": "^0.12.7",
